@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CozyQuest/sakenny.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CozyQuest/front-end-.git
